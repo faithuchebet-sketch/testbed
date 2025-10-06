@@ -5,16 +5,16 @@
       {
         "name": "kilo",
         "url": "https://track.deriv.com/_emWiTvqB_A1B4VdSfJsOp2Nd7ZgqdRLk/1/",
-        "weight": 40
+        "weight": 0
       },      {
         "name": "yankee",
         "url": "https://partners.deriv.com/rx?sidc=14B7DCB0-6BFB-4DC9-A767-A0F65F3003E0&utm_campaign=dynamicworks&utm_medium=affiliate&utm_source=CU106319",
-        "weight": 30
+        "weight": 100
       },
       {
         "name": "hotel",
         "url": "https://track.deriv.com/_kaMKeKldXO0KqFKZ7JdnQ2Nd7ZgqdRLk/1/",
-        "weight": 30
+        "weight": 0
       },
       {
         "name": "sierra",
