@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-06T01:20:00Z",
+  "last_updated": "2025-10-06T20:20:00Z",
   "links": {
     "home": [
       {
@@ -26,8 +26,8 @@
         "weight": 0
       }
     ],
-    "lessons": "https://track.deriv.com/_emWiTvqB_A1nhKTx4PKacmNd7ZgqdRLk/1/",
-    "signals": "https://track.deriv.com/_emWiTvqB_A2NhxmBqQyZL2Nd7ZgqdRLk/1/",
+    "lessons": "https://deriv.com",
+    "signals": "https://deriv.com",
     "profile": "https://deriv.com"
   },
   "intercept": {
