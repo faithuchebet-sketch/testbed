@@ -1,0 +1,43 @@
+{
+  "last_updated": "2025-10-05T01:20:00Z",
+  "links": {
+    "home": [
+      {
+        "name": "kilo",
+        "url": "https://codecraftchronicle.blogspot.com/?m=1",
+        "weight": 70
+      },      {
+        "name": "yankee",
+        "url": "https://codecraftchronicle.blogspot.com/?m=1",
+        "weight": 30
+      },
+      {
+        "name": "hotel",
+        "url": "https://codecraftchronicle.blogspot.com/?m=1",
+        "weight": 0
+      },
+      {
+        "name": "sierra",
+        "url": "https://codecraftchronicle.blogspot.com/?m=1",
+        "weight": 0
+      },      {
+        "name": "mike",
+        "url": "https://codecraftchronicle.blogspot.com/?m=1",
+        "weight": 0
+      }
+    ],
+    "lessons": "https://food52.com/",
+    "signals": "https://codecraftchronicle.blogspot.com/?m=1",
+    "profile": "https://codecraftchronicle.blogspot.com/?m=1"
+  },
+  "intercept": {
+    "urls": [
+      "https://codecraftchronicle.blogspot.com/?m=1",
+      "https://codecraftchronicle.blogspot.com/?m=1"
+    ],
+    "redirectTarget": "home"
+  },
+  "priority": {
+    "usePrimary": true
+  }
+}
