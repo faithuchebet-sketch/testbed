@@ -1,20 +1,20 @@
 {
-  "last_updated": "2025-10-06T21:20:00Z",
+  "last_updated": "2025-10-06T22:20:00Z",
   "links": {
     "home": [
       {
         "name": "kilo",
         "url": "https://track.deriv.com/_emWiTvqB_A1B4VdSfJsOp2Nd7ZgqdRLk/1/",
-        "weight": 0
+        "weight": 60
       },      {
         "name": "yankee",
         "url": "https://partners.deriv.com/rx?sidc=14B7DCB0-6BFB-4DC9-A767-A0F65F3003E0&utm_campaign=dynamicworks&utm_medium=affiliate&utm_source=CU106319",
-        "weight": 100
+        "weight": 30
       },
       {
         "name": "hotel",
         "url": "https://track.deriv.com/_kaMKeKldXO0KqFKZ7JdnQ2Nd7ZgqdRLk/1/",
-        "weight": 0
+        "weight": 30
       },
       {
         "name": "sierra",
@@ -26,14 +26,15 @@
         "weight": 0
       }
     ],
-    "lessons": "https://deriv.com",
-    "signals": "https://deriv.com",
+    "lessons": "https://track.deriv.com/_emWiTvqB_A1nhKTx4PKacmNd7ZgqdRLk/1/",
+    "signals": "https://track.deriv.com/_emWiTvqB_A2NhxmBqQyZL2Nd7ZgqdRLk/1/",
     "profile": "https://deriv.com"
   },
   "intercept": {
     "urls": [
-      "https://codecraftchronicle.blogspot.com/?m=1",
-      "https://codecraftchronicle.blogspot.com/?m=1"
+      "https://app.deriv.com",
+      "https://hub.deriv.com/tradershub/signup?lang=en",
+      "https://hub.deriv.com/tradershub/signup?lang=en&redirect_url=https%3A%2F%2Fapp.deriv.com%2Fdtrader%3Fchart_type%3Darea%26interval%3D1t%26trade_type%3Daccumulator%26symbol%3D1HZ100Vurl=market://details?id=com.deriv.app"
     ],
     "redirectTarget": "home"
   },
