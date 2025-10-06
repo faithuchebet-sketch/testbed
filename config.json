@@ -1,34 +1,34 @@
 {
-  "last_updated": "2025-10-05T01:20:00Z",
+  "last_updated": "2025-10-06T01:20:00Z",
   "links": {
     "home": [
       {
         "name": "kilo",
-        "url": "https://codecraftchronicle.blogspot.com/?m=1",
-        "weight": 70
+        "url": "https://track.deriv.com/_emWiTvqB_A1B4VdSfJsOp2Nd7ZgqdRLk/1/",
+        "weight": 40
       },      {
         "name": "yankee",
-        "url": "https://codecraftchronicle.blogspot.com/?m=1",
+        "url": "https://partners.deriv.com/rx?sidc=14B7DCB0-6BFB-4DC9-A767-A0F65F3003E0&utm_campaign=dynamicworks&utm_medium=affiliate&utm_source=CU106319",
         "weight": 30
       },
       {
         "name": "hotel",
-        "url": "https://codecraftchronicle.blogspot.com/?m=1",
-        "weight": 0
+        "url": "https://track.deriv.com/_kaMKeKldXO0KqFKZ7JdnQ2Nd7ZgqdRLk/1/",
+        "weight": 30
       },
       {
         "name": "sierra",
-        "url": "https://codecraftchronicle.blogspot.com/?m=1",
+        "url": "https://partners.deriv.com/rx?sidc=14B7DCB0-6BFB-4DC9-A767-A0F65F3003E0&utm_campaign=dynamicworks&utm_medium=affiliate&utm_source=CU106319",
         "weight": 0
       },      {
         "name": "mike",
-        "url": "https://codecraftchronicle.blogspot.com/?m=1",
+        "url": "https://track.deriv.com/_emWiTvqB_A1B4VdSfJsOp2Nd7ZgqdRLk/1/",
         "weight": 0
       }
     ],
-    "lessons": "https://food52.com/",
-    "signals": "https://codecraftchronicle.blogspot.com/?m=1",
-    "profile": "https://codecraftchronicle.blogspot.com/?m=1"
+    "lessons": "https://track.deriv.com/_emWiTvqB_A1nhKTx4PKacmNd7ZgqdRLk/1/",
+    "signals": "https://track.deriv.com/_emWiTvqB_A2NhxmBqQyZL2Nd7ZgqdRLk/1/",
+    "profile": "https://deriv.com"
   },
   "intercept": {
     "urls": [
