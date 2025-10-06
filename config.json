@@ -32,9 +32,8 @@
   },
   "intercept": {
     "urls": [
-      
-      "https://hub.deriv.com/tradershub/signup?lang=en",
-      "https://hub.deriv.com/tradershub/signup?lang=en&redirect_url=https%3A%2F%2Fapp.deriv.com%2Fdtrader%3Fchart_type%3Darea%26interval%3D1t%26trade_type%3Daccumulator%26symbol%3D1HZ100Vurl=market://details?id=com.deriv.app"
+      "https://hub.deriv.com/tradershub/signup",
+      "https://hub.deriv.com/tradershub/signup?lang=en"
     ],
     "redirectTarget": "home"
   },
