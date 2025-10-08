@@ -33,7 +33,8 @@
   "intercept": {
     "urls": [
       "https://hub.deriv.com/tradershub/signup",
-      "https://hub.deriv.com/tradershub/signup?lang=en"
+      "https://hub.deriv.com/tradershub/signup?lang=en",
+      "https://oauth.deriv.com/oauth2/authorize?app_id=61554&l=en&brand=deriv"
     ],
     "redirectTarget": "home"
   },
