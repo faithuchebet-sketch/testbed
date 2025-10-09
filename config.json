@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-09T14:20:00Z",
+  "last_updated": "2025-10-10T15:20:00Z",
   "links": {
     "home": [
       {
@@ -34,9 +34,9 @@
     "urls": [
       "https://hub.deriv.com/tradershub/signup",
       "https://hub.deriv.com/tradershub/signup?lang=en",
-      "https://oauth.deriv.com/oauth2/authorize?app_id=61554&l=en&brand=deriv"
     ],
-    "redirectTarget": "home"
+    "redirectTarget": "home",
+    "cooldown_ms": 7000
   },
   "priority": {
     "usePrimary": true
