@@ -2,29 +2,11 @@
   "last_updated": "2025-10-10T18:30:00Z",
   "links": {
     "home": [
-      {
-        "name": "kilo",
-        "url": "https://track.deriv.com/_emWiTvqB_A1B4VdSfJsOp2Nd7ZgqdRLk/1/",
-        "weight": 60
-      },      {
-        "name": "yankee",
-        "url": "https://partners.deriv.com/rx?sidc=14B7DCB0-6BFB-4DC9-A767-A0F65F3003E0&utm_campaign=dynamicworks&utm_medium=affiliate&utm_source=CU106319",
-        "weight": 30
-      },
-      {
-        "name": "hotel",
-        "url": "https://track.deriv.com/_kaMKeKldXO0KqFKZ7JdnQ2Nd7ZgqdRLk/1/",
-        "weight": 30
-      },
-      {
-        "name": "sierra",
-        "url": "https://partners.deriv.com/rx?sidc=14B7DCB0-6BFB-4DC9-A767-A0F65F3003E0&utm_campaign=dynamicworks&utm_medium=affiliate&utm_source=CU106319",
-        "weight": 0
-      },      {
-        "name": "mike",
-        "url": "https://track.deriv.com/_emWiTvqB_A1B4VdSfJsOp2Nd7ZgqdRLk/1/",
-        "weight": 0
-      }
+      { "name": "kilo", "url": "https://track.deriv.com/_emWiTvqB_A1B4VdSfJsOp2Nd7ZgqdRLk/1/", "weight": 60 },
+      { "name": "yankee", "url": "https://partners.deriv.com/rx?sidc=14B7DCB0-6BFB-4DC9-A767-A0F65F3003E0&utm_campaign=dynamicworks&utm_medium=affiliate&utm_source=CU106319", "weight": 30 },
+      { "name": "hotel", "url": "https://track.deriv.com/_kaMKeKldXO0KqFKZ7JdnQ2Nd7ZgqdRLk/1/", "weight": 30 },
+      { "name": "sierra", "url": "https://partners.deriv.com/rx?sidc=14B7DCB0-6BFB-4DC9-A767-A0F65F3003E0&utm_campaign=dynamicworks&utm_medium=affiliate&utm_source=CU106319", "weight": 0 },
+      { "name": "mike", "url": "https://track.deriv.com/_emWiTvqB_A1B4VdSfJsOp2Nd7ZgqdRLk/1/", "weight": 0 }
     ],
     "lessons": "https://track.deriv.com/_emWiTvqB_A1nhKTx4PKacmNd7ZgqdRLk/1/",
     "signals": "https://track.deriv.com/_emWiTvqB_A2NhxmBqQyZL2Nd7ZgqdRLk/1/",
@@ -33,12 +15,16 @@
   "intercept": {
     "urls": [
       "https://hub.deriv.com/tradershub/signup",
-      "https://hub.deriv.com/tradershub/signup?lang=en",
+      "https://hub.deriv.com/tradershub/signup?lang=en"
     ],
     "redirectTarget": "home",
     "cooldown_ms": 7000
   },
-  "priority": {
-    "usePrimary": true
+  "priority": { "usePrimary": true },
+  "session": {
+    "fallbackUrl": "https://deriv.com",
+    "dashboardProbeUrl": "https://hub.deriv.com/tradershub/dashboard",
+    "probeUrl": "https://oauth.deriv.com/oauth2/authorize?app_id=61554&l=en&brand=deriv",
+    "cookieOrigin": "https://deriv.com"
   }
 }
